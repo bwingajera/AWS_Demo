@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring-boot-mvc"/>
+<aop-project name="spring-boot-rest"/>
+<aop-project name="acitivity-portal"/>
+</aop-reference-model>
